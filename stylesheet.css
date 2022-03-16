@@ -100,6 +100,11 @@ span.menu-icon {
 
 /* main (top wrapper) (Galuh Permatasari) */
 
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/275/574/338/mercedes-benz-slk-class-r172-yellow-car-ducati-motorcycle-wallpaper-preview.jpg);
